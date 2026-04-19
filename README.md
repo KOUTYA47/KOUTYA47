@@ -13,9 +13,8 @@
 ## Tech Stack
 
 - Languages: Go, Python, TypeScript, JavaScript, Java, C
-- Backend: Go, Node.js, Express, FastAPI
-- Frontend: React, Next.js
-- Infra / Tools: Docker, Git, GitHub, Linux, AWS
+- Backend: Go, Node.js,
+- Infra / Tools: Docker, Git, GitHub, Linux
 - Database: PostgreSQL, MySQL
 
 ## Featured Projects
